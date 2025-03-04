@@ -1,8 +1,8 @@
-# CinePlay Hub
+# SreyFlix Hub
 
 ## About
 
-CinePlay Hub is your ultimate streaming companion that aggregates content from various streaming services. It provides a seamless interface to browse and watch your favorite movies and TV shows, powered by the TMDB API.
+SreyFlix Hub is your ultimate streaming companion that aggregates content from various streaming services. It provides a seamless interface to browse and watch your favorite movies and TV shows, powered by the TMDB API.
 
 ## Features
 
@@ -30,7 +30,7 @@ CinePlay Hub is your ultimate streaming companion that aggregates content from v
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory
-cd cineplay-hub
+cd sreyflix
 
 # Step 3: Install dependencies
 npm install

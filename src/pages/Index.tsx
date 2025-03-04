@@ -4,7 +4,6 @@ import Hero from "@/components/Hero";
 import CategoryRow from "@/components/CategoryRow";
 import TopTenRow from "@/components/TopTenRow";
 import Footer from "@/components/Footer";
-import AnnouncementBanner from "@/components/AnnouncementBanner";
 import {
   getPopular,
   getNewReleases,
@@ -93,7 +92,6 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-netflix-black">
       <Navbar />
-      <AnnouncementBanner />
       <Hero />
       <div className="space-y-8 pb-8">
         {trending && trending.length > 0 && (
